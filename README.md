@@ -2,4 +2,4 @@
 
 This project demonstrates the use of flexbox and grid layouts using HTML + CSS
 
-[Link to site]()
+[Link to site](src/index.html)
