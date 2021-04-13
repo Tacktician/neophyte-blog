@@ -1,0 +1,60 @@
+.blogContainer {
+    display: flex;
+    width: 100%;
+    height: auto;
+    left: 0;
+}
+
+.blogPost {
+    font-weight: bolder;
+    line-height: 1.25;
+    letter-spacing: -.04em;
+    padding: 5px;
+
+}
+
+.blogPost h3 {
+    font-size: 28px;
+}
+
+.author-info {
+    display: block;
+    transition: 0.3s;
+    text-align: center;
+    border-radius: 30px 30px;
+}
+
+.author-info h3 {
+    color: #51291E !important;
+}
+
+.blogContent {
+    -webkit-font-smoothing: antialiased;
+}
+
+figure {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+aside {
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    text-align: center;
+    background-color: #e6e6e6;
+    border-radius: 30px 30px;
+    padding: 15px 15px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+aside h4 {
+    color: #51291E;
+    font-style: italic;
+    font-size: 33px;
+}

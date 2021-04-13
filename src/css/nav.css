@@ -1,0 +1,21 @@
+
+/* Nav CSS */
+nav {
+    display: flex;
+    background-color: #e6e6e6 !important;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -3px 0 16px -11px #000;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 70px;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin: auto;
+    padding: 5px 5px;
+}
